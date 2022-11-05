@@ -61,4 +61,4 @@
    / \    \    \
   0   2    4    9
 ```
-Bu şekilde olacaktır. Burada sayıları büyüklük küçüklük kıyaslamasına göre yerleştiriyoruz. eğer  sayı büyükse sağa küçükse sola yazzılmalıdır.
+Bu şekilde olacaktır. Burada sayıları büyüklük küçüklük kıyaslamasına göre yerleştiriyoruz. eğer  sayı büyükse sağa küçükse sola yazılmalıdır.
